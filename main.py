@@ -1,6 +1,11 @@
 from animaux import Animaux
 
-test=Animaux("boby","reptile",True,50,65,120,50,152)
+x=2
+y=3
+z=5
+x=4-y
+y=y+3
+z=x+3
 
+print(z)
 
-print(test.get_name())
